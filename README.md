@@ -1,6 +1,6 @@
 # Chaos Toolkit Glooshot Extension
 
-[![Build Status](https://travis-ci.org/chaostoolkit-incubator/chaostoolkit-glooshot.svg?branch=master)](https://travis-ci.org/chaostoolkit-incubator/chaostoolkit-glooshot)
+[![Build Status](https://travis-ci.com/chaostoolkit-incubator/chaostoolkit-glooshot.svg?branch=master)](https://travis-ci.com/chaostoolkit-incubator/chaostoolkit-glooshot)
 [![Python versions](https://img.shields.io/pypi/pyversions/chaostoolkit-glooshot.svg)](https://www.python.org/)
 [![Requirements Status](https://requires.io/github/chaostoolkit-incubator/chaostoolkit-glooshot/requirements.svg?branch=master)](https://requires.io/github/chaostoolkit-incubator/chaostoolkit-glooshot/requirements/?branch=master)
 [![Has wheel](https://img.shields.io/pypi/wheel/chaostoolkit-glooshot.svg)](http://pythonwheels.com/)
