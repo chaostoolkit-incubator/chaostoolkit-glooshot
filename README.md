@@ -9,6 +9,10 @@ This extension package provides probes and actions for Chaos Engineering
 experiments using [Glooshot][] instance using the
 [Chaos Toolkit][chaostoolkit].
 
+<h1 align="center">
+    <img src="docs/images/glooshot.png" alt="Gloo Shot" width="311" height="242">
+</h1>
+
 ***Please NOTE*** This extension is in the _very_ early stages of initial exploration and development.
 
 [actions]: http://chaostoolkit.org/reference/api/experiment/#action
